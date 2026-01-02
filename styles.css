@@ -31,7 +31,7 @@ main {
     /* border: 1px solid blue; */
     border-radius: 10px;
     padding: 30px;
-    box-shadow: 12px 12px 2px 1px rgba(91, 91, 120, 0.2);
+    box-shadow: 12px 12px 2px 1px rgb(149, 149, 150, 0.2);
 }
 
 #daniel_card, #jonathan_card, #patrick_card {
